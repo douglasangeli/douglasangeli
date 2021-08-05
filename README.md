@@ -1,7 +1,12 @@
 <div align="center">
-   <h1>Hi there, I'm Douglas Angeli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>     
+   <h1>Hi there, I'm Douglas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>     
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
+<div align="center">
+🙎 Douglas Angeli | 💻 Full Stack Developer | 🛸 Brazil
+</div>
+
+
 <div align="center" style="display: inline_block">
   <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -16,12 +21,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank" />
-</div>
 
 ## 
 <div align="center">
