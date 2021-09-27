@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm Douglas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>     
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&posessive=His&colour=20232A&sep=|&emoji=%F0%9F%A7%8D%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F&height=20"> 
 </div>
 <div align="center">
 🙎 Douglas Angeli | 💻 Full Stack Developer | 🛸 Brazil
